@@ -5,7 +5,7 @@
 **Main observation window:** Acute presentation through the first 90 days after stroke  
 **Bibliography snapshot:** 22 November 2026  
 **Manuscript status:** Citation and evidence-map snapshot; journal citation to be added after publication  
-**Repository URL:** To be added after the dedicated repository is created
+**Repository URL:** https://github.com/Jiandu-Future/communication-dysfunction-early-recovery-stroke
 ---
 ## Update history
 | Date | Version | Update |
