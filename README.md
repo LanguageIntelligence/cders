@@ -447,14 +447,14 @@ The final journal citation will be added after publication. For pre-publication 
 }
 ```
 ## Repository citation
-After the dedicated repository is created, replace the placeholder URL below with the stable GitHub URL and cite a release/tag where possible:
+The companion repository is published at the URL below; cite a release/tag where possible:
 ```bibtex
 @misc{acute_stroke_communication_recovery_2026,
   title        = {Acute Stroke Communication Recovery: Evidence Map and Bibliography},
   author       = {Xu, Cheng and collaborators},
   year         = {2026},
   howpublished = {GitHub},
-  url          = {REPOSITORY_URL_TO_BE_ADDED},
+  url          = {https://github.com/LanguageIntelligence/communication-dysfunction-early-recovery-stroke},
   note         = {Companion evidence resource for a narrative review}
 }
 ```
