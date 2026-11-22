@@ -5,7 +5,7 @@
 **Main observation window:** Acute presentation through the first 90 days after stroke  
 **Bibliography snapshot:** 22 November 2026  
 **Manuscript status:** Citation and evidence-map snapshot; journal citation to be added after publication  
-**Repository URL:** https://github.com/LanguageIntelligence/communication-dysfunction-early-recovery-stroke
+**Repository URL:** https://github.com/LanguageIntelligence/cders
 ---
 ## Update history
 | Date | Version | Update |
@@ -454,7 +454,7 @@ The companion repository is published at the URL below; cite a release/tag where
   author       = {Xu, Cheng and collaborators},
   year         = {2026},
   howpublished = {GitHub},
-  url          = {https://github.com/LanguageIntelligence/communication-dysfunction-early-recovery-stroke},
+  url          = {https://github.com/LanguageIntelligence/cders},
   note         = {Companion evidence resource for a narrative review}
 }
 ```
@@ -462,7 +462,7 @@ The companion repository is published at the URL below; cite a release/tag where
 # Repository structure
 Recommended repository layout:
 ```text
-acute-stroke-communication-recovery/
+cders/
 ├── README.md                       # This companion evidence map
 ├── references_revised.bib          # 78-record manuscript bibliography
 ├── manuscript/                     # Optional public manuscript source
